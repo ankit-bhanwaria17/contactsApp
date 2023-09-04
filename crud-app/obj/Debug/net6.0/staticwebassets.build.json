@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "72AP9KRR8AtkvS4u+0//IM+r9sCf98ZKa5hLSh7DGcw=",
+  "Source": "ContactsWebApp",
+  "BasePath": "_content/ContactsWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactsWebApp\\wwwroot",
+      "Source": "ContactsWebApp",
+      "ContentRoot": "F:\\Career\\c#\\Contacts\\crud-app\\wwwroot\\",
+      "BasePath": "_content/ContactsWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Career\\c#\\Contacts\\crud-app\\wwwroot\\stylesheet.css",
+      "SourceId": "ContactsWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Career\\c#\\Contacts\\crud-app\\wwwroot\\",
+      "BasePath": "_content/ContactsWebApp",
+      "RelativePath": "stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylesheet.css"
+    }
+  ]
+}
